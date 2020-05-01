@@ -145,7 +145,10 @@ Solder paste can be applied with 25ga+ syringe, or with a stencil of the top pas
 
 ![layout-trim]
 
-Two pads on the back are to provide power from enameled wire that can be soldered, and then twisted and routed out through the mounting hole on top. Then after final testing the device can be encapsulated.
+Two pads on the back are to provide power from enameled wire that can be soldered, and then twisted and routed out through the mounting hole on top. Then after final testing the device can be encapsulated and then trimmed.
+
+![prototype-macro]
+A detail image of a fully assembled prototype before trimming
 
 ## PCB Ordering
 The board is a two-layer polyimide flex with 6/6mil spacing, plated through vias. These are generally the defaults boards so they can be made by most fabrication houses provided flex is an available option. A set of three was purchased at [Oshpark](http://oshpark.com/) for 2.00 USD and a shared project is available [here](https://oshpark.com/shared_projects/V0E4EFRY).
@@ -186,6 +189,7 @@ Dimensions of board after being trimmed to size.
 [prototype-scale]:        /docs/prototype-scale.jpg        "Assembled prototype with various coins as scale"
 [prototype-encapsulated]: /docs/prototype-encapsulated.jpg "Nail polish topcoat encapsulation detail"
 [prototype-back]:         /docs/prototype-back.jpg         "Back of assembled prototype boards"
+[prototype-macro]:        /docs/prototype-macro.jpg        "Detail of fully assembled board"
 [layout-dim]:             /docs/layout-dim.png             "Final dimensions after trimming"
 [layout-fab]:             /docs/layout-fab.png             "Component placement for fabrication"
 [layout-trim]:            /docs/layout-trim.png            "Trimming line on back of boards"
