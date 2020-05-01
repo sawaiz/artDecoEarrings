@@ -1,0 +1,9 @@
+Ref Des,Qty,Manufacturer,MPN,Description
+C1,1,Samsung,CL05A105KQ5NNNC,CAP: Ceramic 1uF 6.3V X5R 0402
+C2,1,Taiyo Yuden,JMK105BJ225KV-F,CAP: Ceramic 2.2uF 6.3V X5R 0402
+C3,1,Wuerth Elektronik,885012105010,CAP: Ceramic 0.1uF 10V X5R 0402
+D1 D2 D3 D4 D5 D6 D7 D8,8,WorldSemi,WS2812B-2020,LED: Addressable RGB (2x2)
+R1 R2,2,Stackpole Electronics,RMCF0402JT10K0,RES: 10K OHM 5% 1/16W 0402
+U1,1,Microchip,MIC5365-3.3YMT-TZ,REG Linear 3.3V 150mA 4TMLF (1x1)
+U2,1,Microchip,ATTINY85-20MU,MCU: AVR 8b 8KB Flash 20QFN (4x4)
+U3,1,STMicroelectronics,LSM6DSMTR,IMU: Accel/Gyro I2C/SPI 14LGA (2.5x3)

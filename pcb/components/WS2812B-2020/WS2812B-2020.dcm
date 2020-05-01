@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WS2812B-2020
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F http://www.world-semi.com/DownLoadFile/140
+$ENDCMP
+#
+#End Doc Library

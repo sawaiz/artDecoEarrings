@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name LSM6DSM)(type KiCad)(uri ${KIPRJMOD}/components/LSM6DSM/LSM6DSM.pretty)(options "")(descr ""))
+  (lib (name ATtiny85-20MU)(type KiCad)(uri ${KIPRJMOD}/components/ATtiny85-20MU/ATtiny85-20MU.pretty)(options "")(descr ""))
+  (lib (name TC2030-IDC-NL)(type KiCad)(uri ${KIPRJMOD}/components/TC2030-IDC-NL/TC2030-IDC-NL.pretty)(options "")(descr ""))
+  (lib (name WS2812B-2020)(type KiCad)(uri ${KIPRJMOD}/components/WS2812B-2020/WS2812B-2020.pretty)(options "")(descr ""))
+  (lib (name MIC5365)(type KiCad)(uri ${KIPRJMOD}/components/MIC5365/MIC5365.pretty)(options "")(descr ""))
+  (lib (name earringHookWire)(type KiCad)(uri ${KIPRJMOD}/components/earringHookWire/earringHookWire.pretty)(options "")(descr ""))
+)

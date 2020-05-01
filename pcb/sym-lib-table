@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name LSM6DSM)(type Legacy)(uri ${KIPRJMOD}/components/LSM6DSM/LSM6DSM.lib)(options "")(descr ""))
+  (lib (name ATtiny85-20MU)(type Legacy)(uri ${KIPRJMOD}/components/ATtiny85-20MU/ATtiny85-20MU.lib)(options "")(descr ""))
+  (lib (name TC2030-IDC-NL)(type Legacy)(uri ${KIPRJMOD}/components/TC2030-IDC-NL/TC2030-IDC-NL.lib)(options "")(descr ""))
+  (lib (name WS2812B-2020)(type Legacy)(uri ${KIPRJMOD}/components/WS2812B-2020/WS2812B-2020.lib)(options "")(descr ""))
+  (lib (name MIC5365)(type Legacy)(uri ${KIPRJMOD}/components/MIC5365/MIC5365.lib)(options "")(descr ""))
+  (lib (name earringHookWire)(type Legacy)(uri ${KIPRJMOD}/components/earringHookWire/earringHookWire.lib)(options "")(descr ""))
+)
